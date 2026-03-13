@@ -122,7 +122,7 @@ The final ensemble model achieved strong performance on both training and test d
 
 ![Feature Distribution](figures/figure1_feature_histograms.png)
 
-![Correlation Heatmap](figures/figure3_correlation_heatmap.png)
+![Feature Target](figures/figure2_features_vs_churn.png)
 
 ---
 
